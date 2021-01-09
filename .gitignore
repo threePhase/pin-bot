@@ -1,0 +1,8 @@
+# ignore local environment variable file
+.env
+
+# ignore node_modules
+node_modules
+
+# ignore node version manager config
+.nvmrc

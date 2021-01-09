@@ -1,0 +1,17 @@
+{
+  "name": "pin-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that pins messages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Michael Snider",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
